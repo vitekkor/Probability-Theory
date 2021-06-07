@@ -1,1 +1,1 @@
-#Modeling problems on the Theory of Probability, SPBSTU
+# Modeling problems on the Theory of Probability, SPBSTU
